@@ -81,9 +81,10 @@ Keep when:
 
 Write a short result and link only evidence that exists. A passing browser check is evidence for its assertions, not customer research or proof of full accessibility.
 
-| Spec ID   | Files           | Issue / PR      | Actual checks and observations            |
-| --------- | --------------- | --------------- | ----------------------------------------- |
-| BRAND-001 | Not changed yet | Not created yet | Not run yet; learner observations pending |
+| Principle | Actual copy or interaction | Visitor benefit / factual support |
+|---|---|---|
+| Emotional appeal / self-expression | The headline says “Same Shirt. Different Story.” and the supporting copy explains that a simple T-shirt can express identity, creativity, and personal style. | Helps visitors understand the brand's message and consider how clothing can reflect their individuality. |
+| Transparency / informed choice | Visitors can select S, M, L, or XL and try the demo bag. The page labels the $28 price as fictional and explains that the bag resets on reload and has no checkout. | Visitors can explore the demonstration honestly, understand its limitations, and make an informed decision without being misled into thinking a real purchase is taking place. |
 
 ## Later
 
