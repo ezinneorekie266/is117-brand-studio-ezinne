@@ -43,16 +43,16 @@ Compare two small hero previews before building the whole page. Hold the product
 
 A simple original SVG wordmark is enough. Show small-size and one-color presentations; they may use the same asset when it works.
 
-| Item                                              | Agreement or evidence |
-| ------------------------------------------------- | --------------------- |
-| Shared headline / support / action                | Not chosen yet        |
-| Modernist preview, reference, and annotations     | Not chosen yet        |
-| Postmodernist preview, reference, and annotations | Not chosen yet        |
-| Chosen direction and reason                       | Not chosen yet        |
-| Original SVG logo                                 | Not chosen yet        |
-| Monochrome and small-size variants                | Not chosen yet        |
-| Logo review at actual use size                    | Not checked yet       |
-| Shared palette, typography, spacing, and assets   | Not chosen yet        |
+| Item | Agreement or evidence |
+|---|---|
+| Shared headline / support / action | “Same Shirt. Different Story.” / “Express your personality and tell your story.” / “Explore the collection.” |
+| Modernist preview, reference, and annotations | Clean grid, restrained colors, simple typography, and balanced spacing. Reference: Swiss International Style. Intended effect: clarity and order. Risk: may feel too plain for a self-expression brand. |
+| Postmodernist preview, reference, and annotations | Bold typography, expressive color accents, playful composition, and layered visual elements. Reference: Memphis Design. Intended effect: individuality and creativity. Risk: too many decorative elements could distract from the product. |
+| Chosen direction and reason | Postmodernist-inspired design, balanced with clear navigation and readable text, because it better communicates individuality and self-expression. |
+| Original SVG logo | Thread & Story wordmark using the brand name and tagline. |
+| Monochrome and small-size variants | Use a single-color version and a simplified version that remains readable at small sizes. |
+| Logo review at actual use size | Review the logo in the navigation area and at a smaller display size before final approval. |
+| Shared palette, typography, spacing, and assets | Use the same colors, typography, spacing, wordmark, and product imagery across the storefront and style guide. |
 
 ## Ethical persuasion
 
