@@ -19,13 +19,13 @@ The product is the same white T-shirt throughout the comparison. The baseline of
 
 The primary need guides the page. Give the secondary card one contrasting need to check that same page; keep both cards brief.
 
-| Tiny card                             | Primary audience          | Secondary audience        |
-| ------------------------------------- | ------------------------- | ------------------------- |
-| Person in a concrete situation        | Not chosen yet            | Not chosen yet            |
-| Goal or meaning they seek             | Not chosen yet            | Not chosen yet            |
-| Concern before choosing               | Not chosen yet            | Not chosen yet            |
-| What the page should help them decide | Not chosen yet            | Not chosen yet            |
-| Evidence or assumption                | Assumption; not validated | Assumption; not validated |
+| Tiny card | Primary audience | Secondary audience |
+|---|---|---|
+| Person in a concrete situation | College students and young adults choosing casual clothing for everyday wear. | Adults looking for simple, versatile clothing for everyday use. |
+| Goal or meaning they seek | To express their individuality and personality through personal style. | To create different looks using simple clothing. |
+| Concern before choosing | A plain T-shirt may look ordinary or fail to reflect their personality. | A basic T-shirt may offer limited opportunities for personal expression. |
+| What the page should help them decide | Whether Thread & Story's white T-shirt is a good starting point for self-expression. | Whether the T-shirt is versatile enough for their personal style. |
+| Evidence or assumption | Assumption; not validated through customer research. | Assumption; not validated through customer research. 
 
 ## Early brand brief
 | Decision | Agreement |
