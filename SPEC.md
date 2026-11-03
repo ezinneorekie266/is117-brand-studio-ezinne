@@ -28,15 +28,14 @@ The primary need guides the page. Give the secondary card one contrasting need t
 | Evidence or assumption                | Assumption; not validated | Assumption; not validated |
 
 ## Early brand brief
-
-| Decision                                 | Agreement      |
-| ---------------------------------------- | -------------- |
-| Brand name                               | Not chosen yet |
-| One-sentence promise                     | Not chosen yet |
-| Primary archetype: the brand's character | Not chosen yet |
-| Three voice traits                       | Not chosen yet |
-| One example line in this voice           | Not chosen yet |
-| Learner's predicted audience effect      | Not chosen yet |
+| Decision | Agreement |
+|---|---|
+| Brand name | Thread & Story |
+| One-sentence promise | A simple T-shirt becomes a way to express your personality and tell your story. |
+| Primary archetype: the brand's character | The Creator — expressing individuality through personal style. |
+| Three voice traits | Friendly, confident, and expressive. |
+| One example line in this voice | Same Shirt. Different Story. |
+| Learner's predicted audience effect | Visitors will understand the brand's focus on self-expression and feel encouraged to explore the storefront. |
 
 ## Visual decision
 
