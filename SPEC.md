@@ -58,10 +58,10 @@ A simple original SVG wordmark is enough. Show small-size and one-color presenta
 
 Choose two applications that help the visitor make a voluntary, informed decision. Record their real implementation and mechanism rather than a principle name alone. Required size selection or validation alone does not establish consistency. Do not invent social proof, scarcity, authority, or product facts.
 
-| Principle      | Actual copy or interaction | Visitor benefit / factual support |
-| -------------- | -------------------------- | --------------------------------- |
-| Not chosen yet | Not chosen yet             | Not chosen yet                    |
-| Not chosen yet | Not chosen yet             | Not chosen yet                    |
+| Principle | Actual copy or interaction | Visitor benefit / factual support |
+|---|---|---|
+| Emotional appeal / self-expression | The headline says “Same Shirt. Different Story.” The supporting copy explains that a simple T-shirt can express identity, creativity, and personal style. | Helps visitors understand the brand's message and consider how clothing can reflect their individuality. |
+| Transparency / informed choice | Visitors can select S, M, L, or XL and try the demo bag. The page labels the $28 price as fictional and explains that the bag resets on reload and has no checkout. | Visitors can explore the demonstration honestly, understand its limitations, and make an informed decision. |
 
 ## BRAND-001 — first branded storefront and live style guide
 
