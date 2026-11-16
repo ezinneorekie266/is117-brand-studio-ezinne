@@ -89,3 +89,60 @@ Write a short result and link only evidence that exists. A passing browser check
 ## Later
 
 No follow-up is selected. After keeping `BRAND-001`, choose one next cycle: perhaps a brand story, a supported fit guide, or richer demo-bag behavior. Agree its scope and add one new spec ID at that time.
+
+## Review 2 — Plan: Thread & Story
+
+### 1. Compare two design approaches
+
+**Approach A — Product-first storefront**
+
+A simple shopping layout that emphasizes the T-shirt, price, available sizes, and a straightforward checkout. Its main advantage is simplicity and quick product selection.
+
+**Approach B — Expressive, story-led storefront (chosen)**
+
+A storefront that combines clear product information with the Thread & Story promise, “Same Shirt. Different Story.” It retains straightforward shopping navigation while using the existing visual identity to communicate individuality and self-expression.
+
+**Decision:** Choose Approach B because it carries forward the established brand identity while keeping product selection and checkout understandable.
+
+### 2. User stories
+
+1. As a visitor, I want to see the T-shirt, price, and available sizes so that I can make an informed selection.
+2. As a shopper, I want to select a size and add the shirt to my bag so that I can review my choice.
+3. As a shopper, I want to review my selected item, size, and price before checkout so that I can confirm my order details.
+4. As a shopper, I want to complete a simulated checkout and receive a confirmation so that I can understand the demonstration purchase process.
+5. As a returning visitor, I want demonstration order information saved in SQLite so that I can retrieve it after closing and reopening the application.
+
+### 3. Essential features and observable checks
+
+| Feature | Observable check |
+|---|---|
+| Product display | The T-shirt, brand name, tagline, and fictional price are visible. |
+| Size selection | S, M, L, and XL can be selected. |
+| Shopping bag | The selected item and size appear correctly; an item can be removed. |
+| Simulated checkout | Required information is validated, and a successful demonstration produces a confirmation. |
+| SQLite storage | A completed demonstration order is saved and can be retrieved after the application is restarted. |
+
+### 4. Honest persuasion
+
+The plan retains two existing brand principles:
+
+- **Emotional appeal and self-expression:** “Same Shirt. Different Story.” communicates individuality and personal style without promising an unsupported result.
+- **Transparency and informed choice:** The fictional $28 price and demonstration shopping bag are clearly identified. Visitors must be informed that checkout is simulated and no real payment is collected.
+
+### 5. Technical scope
+
+The next implementation will reuse the existing Thread & Story brand identity and storefront work where appropriate. It will add a simulated checkout and a working SQLite backend for demonstration order storage.
+
+SQLite requires a server-side application. The static GitHub Pages storefront alone will not provide this database functionality. The implementation will therefore follow the instructor's supported SQLite starter example.
+
+No real payment processing or actual purchase will take place.
+
+### 6. Verification plan
+
+- Check that all four sizes can be selected.
+- Check that the correct item and size appear in the shopping bag.
+- Check that required checkout information is validated.
+- Check that a successful simulated checkout displays confirmation.
+- Check that the order is stored in SQLite.
+- Close and reopen the application and retrieve the saved order.
+- Confirm that the checkout is clearly identified as a demonstration.
